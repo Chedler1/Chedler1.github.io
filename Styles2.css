@@ -1,0 +1,99 @@
+html
+{
+  background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.3)),url(logos/lol.jpg);
+}
+.sidenav li
+{
+  margin-left: 20px;
+  margin-bottom: 25px;
+  display: block;
+}
+
+.main-nav
+{
+	float: right;
+  padding-bottom: 10px;
+}
+
+.main-nav li
+{
+	display: inline-block;
+}
+
+.main-nav li a
+{
+    color: white;
+  	text-decoration: none;
+    padding: 3px 15px;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    margin: 15px;
+}
+
+.main-nav li a:hover
+{
+	border: 1px solid white;
+}
+img
+{
+  position: absolute;
+}
+
+.images1
+{
+  position: absolute;
+  border: 1px solid lightgray;
+  padding: 5px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  top: 3px;
+}
+
+.sum
+{
+  margin-top: 50px;
+  text-decoration: underline;
+  width: 5%;
+  padding: 10px;
+  font-size: 25px;
+  color: white;
+}
+h3
+{
+  border-top: 1px solid red;
+  margin-top: 150px;
+  font-size: 35px;
+  color: white;
+}
+.dis
+{
+  font-style: italic;
+  font-size: 15px;
+  color: white;
+}
+.this
+{
+  text-decoration: underline;
+  padding: 5px;
+  font-size: 25px;
+  color: white;
+}
+.lit
+{
+  font-style: italic;
+  font-size: 15px;
+  color: white;
+}
+h4
+{
+  color: white;
+}
+.sidenav
+{
+  color: white;
+}
+footer
+{
+  float: right;
+  color: white;
+}

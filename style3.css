@@ -1,0 +1,100 @@
+body
+{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  background-color: lightblue;
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
+.contact-title
+{
+  margin-top: 100px;
+  color: red;
+  text-transform: uppercase;
+  transition: all 4s ease-in-out;
+}
+.contact-title h1
+{
+  font-size: 32px;
+  line-height: 10px;
+}
+
+form
+{
+  margin: 100px;
+  transition: all 4s ease-in-out;
+}
+.form-control
+{
+  width: 500px;
+  background: transparent;
+  border: none;
+  outline: none;
+  border: 1px solid red;
+  color: black;
+  font-size: 18px;
+  margin-bottom: 16px;
+}
+input
+{
+  height: 45px;
+}
+form .submit
+{
+  background: red;
+  border-color: transparent;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  height: 50px;
+  margin-top: 20px;
+}
+form .submit:hover
+{
+  background-color: #f44336;
+  cursor: pointer;
+}
+.main-nav
+{
+	float: right;
+	list-style: none;
+}
+
+.main-nav li
+{
+	display: inline-block;
+}
+.main-nav li a
+
+{
+	color: black;
+	text-decoration: none;
+	padding: 3px 25px;
+	font-family: "Roboto", sans-serif;
+	font-size: 15px;
+}
+
+.main-nav li.active a
+{
+	border: 1px solid red;
+}
+
+.main-nav li a:hover
+{
+	border: 1px solid red;
+}
+h1
+{
+  margin: 100px;
+  padding: 50px;
+}
+footer
+{
+  color: white;
+  float: right;
+  padding-top: 150px;
+  margin-top: 25px;
+}
