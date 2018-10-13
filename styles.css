@@ -1,6 +1,6 @@
 html
 {
-	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0)), url(cute.jpg);
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0)), url(./cute.jpg);
 	height: 100vh;
 	background-size: cover;
 	Background-position: center
