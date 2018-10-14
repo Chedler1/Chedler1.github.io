@@ -1,3 +1,7 @@
+html
+{
+	background-color: #E5A298;
+}
 .main-nav
 {
 	float: right;
@@ -32,20 +36,14 @@ h1
 	text-align: center;
 	text-transform: uppercase;
 	text-decoration: underline;
-	color: red;
+	color: blue;
+}
+img
+{
+	border-radius: 5px;
+	border: 2px solid black;
 }
 h2
 {
-	text-align: right;
-}
-	img
-	{
-		float: right;
-		position: static;
-		margin-right: 300px;
-	}
-video
-{
-	float: right;
-	margin: 200px;
+	text-align: center;
 }
