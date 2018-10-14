@@ -41,6 +41,8 @@ img
 
 .images1
 {
+  width: 115px;
+  height: 135px;
   position: absolute;
   border: 1px solid lightgray;
   padding: 5px;
