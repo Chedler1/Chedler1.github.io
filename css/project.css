@@ -1,6 +1,7 @@
 html
 {
 	background-color: #E5A298;
+	border-bottom: 1px solid black;
 }
 .main-nav
 {
@@ -36,14 +37,47 @@ h1
 	text-align: center;
 	text-transform: uppercase;
 	text-decoration: underline;
-	color: blue;
+	color: black;
+	margin-left: 300px;
+}
+h2
+{
+	position: absolute;
+	margin-left: 450px;
+	font-size: 35px;
 }
 img
 {
 	border-radius: 5px;
 	border: 2px solid black;
+	margin: 35px;
+	float: right;
+	margin-right: 100px;
 }
-h2
+video
 {
-	text-align: center;
+	margin-top: 470px;
+	position: absolute;
+	margin-left: 100px;
+}
+.var
+{
+	position: absolute;
+	margin-top: 550px;
+	margin-left: 800px;
+	font-size: 35px;
+}
+.side
+{
+	position: absolute;
+	margin-top: 650px;
+	margin-left: 700px;
+	font-size: 20px;
+}
+p
+{
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 300px;
+	font-size: 20px;
 }
