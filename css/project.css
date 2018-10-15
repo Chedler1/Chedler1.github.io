@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 html {
   background-color: #E5A298;
+=======
+html
+{
+	background-color: #E5A298;
+	border-bottom: 1px solid black;
+>>>>>>> 0cef3807cac3d9f5e7cf34fd9e88a7f42d2a44c6
 }
 
 .main-nav {
@@ -26,6 +33,7 @@ html {
 .main-nav li a:hover {
   border: 1px solid red;
 }
+<<<<<<< HEAD
 
 h1 {
   text-align: center;
@@ -41,4 +49,54 @@ img {
 
 h2 {
   text-align: center;
+=======
+h1
+{
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: underline;
+	color: black;
+	margin-left: 300px;
+}
+h2
+{
+	position: absolute;
+	margin-left: 450px;
+	font-size: 35px;
+}
+img
+{
+	border-radius: 5px;
+	border: 2px solid black;
+	margin: 35px;
+	float: right;
+	margin-right: 100px;
+}
+video
+{
+	margin-top: 470px;
+	position: absolute;
+	margin-left: 100px;
+}
+.var
+{
+	position: absolute;
+	margin-top: 550px;
+	margin-left: 800px;
+	font-size: 35px;
+}
+.side
+{
+	position: absolute;
+	margin-top: 650px;
+	margin-left: 700px;
+	font-size: 20px;
+}
+p
+{
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 300px;
+	font-size: 20px;
+>>>>>>> 0cef3807cac3d9f5e7cf34fd9e88a7f42d2a44c6
 }
