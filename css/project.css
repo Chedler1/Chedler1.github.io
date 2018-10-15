@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-html {
-  background-color: #E5A298;
-=======
+
+
 html
 {
 	background-color: #E5A298;
 	border-bottom: 1px solid black;
->>>>>>> 0cef3807cac3d9f5e7cf34fd9e88a7f42d2a44c6
 }
 
 .main-nav {
@@ -26,30 +23,16 @@ html
   font-size: 15px;
 }
 
-.main-nav li.active a {
+.main-nav li.active a
+{
   border: 1px solid red;
 }
 
-.main-nav li a:hover {
+.main-nav li a:hover
+{
   border: 1px solid red;
 }
-<<<<<<< HEAD
 
-h1 {
-  text-align: center;
-  text-transform: uppercase;
-  text-decoration: underline;
-  color: blue;
-}
-
-img {
-  border-radius: 5px;
-  border: 2px solid black;
-}
-
-h2 {
-  text-align: center;
-=======
 h1
 {
 	text-align: center;
@@ -68,7 +51,6 @@ img
 {
 	border-radius: 5px;
 	border: 2px solid black;
-	margin: 35px;
 	float: right;
 	margin-right: 100px;
 }
@@ -98,5 +80,4 @@ p
 	margin-top: 200px;
 	margin-left: 300px;
 	font-size: 20px;
->>>>>>> 0cef3807cac3d9f5e7cf34fd9e88a7f42d2a44c6
 }
