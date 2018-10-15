@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 html {
   background-color: #E5A298;
-=======
 html
 {
 	background-color: #E5A298;
@@ -33,7 +32,6 @@ html
 .main-nav li a:hover {
   border: 1px solid red;
 }
-<<<<<<< HEAD
 
 h1 {
   text-align: center;
@@ -49,7 +47,6 @@ img {
 
 h2 {
   text-align: center;
-=======
 h1
 {
 	text-align: center;
@@ -98,5 +95,4 @@ p
 	margin-top: 200px;
 	margin-left: 300px;
 	font-size: 20px;
->>>>>>> 0cef3807cac3d9f5e7cf34fd9e88a7f42d2a44c6
 }
